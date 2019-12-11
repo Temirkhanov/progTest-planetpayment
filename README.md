@@ -27,6 +27,9 @@ Types of sort:
 * 2 - last name
 * Any other integer - date
 
+Output
+![Alt text](https://github.com/Temirkhanov/progTest-planetpayment/blob/master/output.JPG)
+
 ## How to run
 Pull this repository. Change the input files if desired.
 In the terminal/cmd navigate to the folder with jar and input files.
